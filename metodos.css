@@ -1,0 +1,45 @@
+body{
+    background-color: #ede1d0 ;
+    margin: 0px;
+}
+
+h2 {
+    font-family:"Neonderthaw", arial; ;
+    font-size: 4rem;
+    color: #cf8489;
+    text-align: center;
+    border: #e2b599;
+    border-width: 3px;
+    border-style: solid;
+    background-color: #ffddc7;
+}
+
+p {
+    font-family: Sour Gummy;
+ font-size: 1.3rem;
+ text-align: left; ;
+}
+.instagram
+{
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 10%;
+
+}
+.wpp
+{
+    width: 20%;
+    border-radius: 10px;
+    margin-left: 10%;
+   
+}
+.nequi
+{
+    width: 45% ;
+    margin-left: 27%;
+    border-radius: 20px;
+}
+.nequi-texto p
+{
+    text-align: center;
+}
